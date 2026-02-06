@@ -14,7 +14,7 @@ public class Customer {
         this.active = active;
     }
 
-    // ✅ Public methods
+
     public boolean isActive() {
         return active;
     }
