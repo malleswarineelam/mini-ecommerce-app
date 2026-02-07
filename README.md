@@ -53,10 +53,5 @@ Fixed access modifier and package-level errors
 
 Improved debugging and problem-solving skills
 
-👩‍💻 Author
-
-Malleswari Neelam
-BTech Graduate | Java Learner | Aspiring Software Developer
 
 
-## 📂 Project Structure
